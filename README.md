@@ -1,5 +1,6 @@
 ###  Привет!👋
 #### Меня зовут Голубенков Георгий я тестировщик.
+
 #### Я умею: 
 * Работать с документацией (тест-анализ, тест-дизайн, чек-листы, баг-репорты, тест-кейсы, майндмапы и блок-схемы);
 * Тестировать WEB (UI, вёрстка, КС архитектура, кросс браузерное/платформенное тестирование, Charles, читаю HTML, CSS-селекторы, работаю с DevTools);
@@ -7,19 +8,6 @@
 * Тестировать API (REST, JSON, Postman, cURL, Swagger/apidoc, XML, SOAP);
 * PostgreSQL (SELECT, JOIN, UNION, WHERE, LIKE, GROUP\ORDER BY, HAVING).
 
+
 [Примеры тестовой документации, выполненной мной.](https://github.com/GolubenkovG/QA_Portfolio)
-<!--
-**GolubenkovG/GolubenkovG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
