@@ -9,5 +9,3 @@
 * PostgreSQL (SELECT, JOIN, UNION, WHERE, LIKE, GROUP\ORDER BY, HAVING).
 
 
-[Примеры тестовой документации, выполненной мной.](https://github.com/GolubenkovG/QA_Portfolio)
-
